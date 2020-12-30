@@ -97,9 +97,9 @@ plot(Wind_China, main="Wind speed ",col="red",zlim=c(4,6.87),add=T,legend=F)
 PV <-  (Srad_China > 16000 & Prec_China <42)
 plot(PV,legend=F,main="Better locations of PV farms")
 
-#°ë¸ÉºµµØÇøÄê½µË®Á¿350ml-500ml£¬¶ÔÓ¦Ñ¡ÔñÔÂÆ½¾ù½µË®Á¿ãÐÖµ42ml
+#åŠå¹²æ—±åœ°åŒºå¹´é™æ°´é‡350ml-500mlï¼Œå¯¹åº”é€‰æ‹©æœˆå¹³å‡é™æ°´é‡é˜ˆå€¼42ml
 
-
+# good work
 
 
 
